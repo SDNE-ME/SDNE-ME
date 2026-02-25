@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, my name is Sonia Danjuma 👋
+### **I am a Data Analyst**
+Transforming complex data into actionable business strategy and insights
+### **Tech Stack**
+- Languages: SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy)
+
+- Visualisation: Tableau, Power BI, Excel
+
+- Tools: Git, dbt, Google Analytics 
 
 <!--
 **SDNE-ME/SDNE-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
